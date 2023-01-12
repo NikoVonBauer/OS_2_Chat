@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKA9uN34Sl7GKaut7y/XU/eFr3Cz+UdwNjDhb4B0D8RzlOayc5qsm1vDRqj/GIdC+0q230KZdJ7pZ1M2eaYDKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niko von Bauer\\Desktop\\os_practice_2-main\\OS_2_Chat\\LocalChat\\OS_2_Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niko von Bauer\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
